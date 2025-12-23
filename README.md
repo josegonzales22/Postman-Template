@@ -1,4 +1,4 @@
-# 🚀 Postman API Automation Template - Script-Based Architecture
+# 🚀 Postman Template - Script-Based Architecture
 
 Este repositorio contiene una colección de Postman diseñada como un framework de demostración para pruebas de API automatizadas. Esta colección utiliza una arquitectura basada íntegramente en Scripts (Pre-request y Post-response) para gestionar el flujo de datos y las validaciones de forma autónoma.
 
